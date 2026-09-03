@@ -8,9 +8,9 @@
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -28,7 +28,40 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db453481-ac7d-4a24-af44-ca27a2281aed" name="Changes" comment="" />
+    <list default="true" id="db453481-ac7d-4a24-af44-ca27a2281aed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../01-Priority-Queue-Triage/.idea/Question 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-Binary-Search-Patient-Tracking/.idea/Question 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/Question 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/Queue.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/QueueElement.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/QueueFunctions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/QueueFunctions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/QueueNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/.idea/Question 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/.idea/Question 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,15 +71,18 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2025" />
     <option name="minorVersion" value="2" />
     <option name="productBranch" value="Classic" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3Im53r1a8ua2DWBoXv0RYL8JMKI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -59,20 +95,17 @@
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.west.config.association.type.startup.service": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Question_4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Question_4" TARGET_NAME="Question_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Question_4" RUN_TARGET_NAME="Question_4">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -86,6 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1788356707094</updated>
       <workItem from="1788356708820" duration="115000" />
+      <workItem from="1788406731663" duration="58000" />
     </task>
     <servers />
   </component>

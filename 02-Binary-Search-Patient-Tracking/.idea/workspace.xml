@@ -8,9 +8,9 @@
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -19,7 +19,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="Question_6" targetName="Question_6" />
+      <config projectName="Question_2" targetName="Question_2" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -28,7 +28,22 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c53f4ec-9083-49f6-9270-5be1d0aced5a" name="Changes" comment="" />
+    <list default="true" id="33641dc6-c262-40d5-9087-56e4ba48e96f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/Question 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/Queue.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/QueueElement.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/QueueFunctions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/QueueFunctions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/QueueNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,41 +53,41 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2025" />
     <option name="minorVersion" value="2" />
     <option name="productBranch" value="Classic" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
-  <component name="ProjectId" id="3Im5d3caSbAJbSDbwbyTCzcX8aQ" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3IPY4yi5WuMT6xUZiH8nAj7xn5Q" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "CMake Application.Question_6.executor": "Run",
+    "CMake Application.Question_2.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.west.config.association.type.startup.service": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Question_6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Question_6" TARGET_NAME="Question_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Question_6" RUN_TARGET_NAME="Question_6">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="Question_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Question_2" TARGET_NAME="Question_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Question_2" RUN_TARGET_NAME="Question_2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -80,12 +95,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7c53f4ec-9083-49f6-9270-5be1d0aced5a" name="Changes" comment="" />
-      <created>1788356986246</created>
+      <changelist id="33641dc6-c262-40d5-9087-56e4ba48e96f" name="Changes" comment="" />
+      <created>1787667483818</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1788356986246</updated>
-      <workItem from="1788356987934" duration="80000" />
+      <updated>1787667483818</updated>
+      <workItem from="1787667485138" duration="39000" />
+      <workItem from="1788406598242" duration="65000" />
     </task>
     <servers />
   </component>

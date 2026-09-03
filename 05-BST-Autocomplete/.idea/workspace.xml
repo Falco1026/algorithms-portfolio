@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Question_5" targetName="Question_5" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0645e539-18be-486c-bfaf-2ad3d31193fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../01-Priority-Queue-Triage/.idea/Question 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-Binary-Search-Patient-Tracking/.idea/Question 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/Question 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/Queue.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/QueueElement.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/QueueFunctions.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/QueueFunctions.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/Aditional Library/QueueNode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 1/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/.idea/Question 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 2/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/.idea/Question 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 3/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 4/.idea/Question 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 4/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 4/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question 4/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3IPZ8Fb3kE02QpHjPDYDg4kn8p9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.Question_5.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Question_5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Question_5" TARGET_NAME="Question_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Question_5" RUN_TARGET_NAME="Question_5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0645e539-18be-486c-bfaf-2ad3d31193fa" name="Changes" comment="" />
+      <created>1787668002541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787668002541</updated>
+      <workItem from="1787668003712" duration="993000" />
+      <workItem from="1788406807931" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
